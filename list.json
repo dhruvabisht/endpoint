@@ -1,0 +1,62 @@
+[
+  {
+    "user_id": "U001",
+    "user_name": "Aarav Sharma",
+    "user_email": "aarav.sharma@example.com",
+    "user_phone_number": "+12345678901"
+  },
+  {
+    "user_id": "U002",
+    "user_name": "Isha Verma",
+    "user_email": "isha.verma@example.com",
+    "user_phone_number": "+12345678902"
+  },
+  {
+    "user_id": "U003",
+    "user_name": "Rohan Mehta",
+    "user_email": "rohan.mehta@example.com",
+    "user_phone_number": "+12345678903"
+  },
+  {
+    "user_id": "U004",
+    "user_name": "Sneha Kapoor",
+    "user_email": "sneha.kapoor@example.com",
+    "user_phone_number": "+12345678904"
+  },
+  {
+    "user_id": "U005",
+    "user_name": "Aditya Nair",
+    "user_email": "aditya.nair@example.com",
+    "user_phone_number": "+12345678905"
+  },
+  {
+    "user_id": "U006",
+    "user_name": "Priya Singh",
+    "user_email": "priya.singh@example.com",
+    "user_phone_number": "+12345678906"
+  },
+  {
+    "user_id": "U007",
+    "user_name": "Kunal Joshi",
+    "user_email": "kunal.joshi@example.com",
+    "user_phone_number": "+12345678907"
+  },
+  {
+    "user_id": "U008",
+    "user_name": "Neha Reddy",
+    "user_email": "neha.reddy@example.com",
+    "user_phone_number": "+12345678908"
+  },
+  {
+    "user_id": "U009",
+    "user_name": "Vikram Desai",
+    "user_email": "vikram.desai@example.com",
+    "user_phone_number": "+12345678909"
+  },
+  {
+    "user_id": "U010",
+    "user_name": "Ananya Gupta",
+    "user_email": "ananya.gupta@example.com",
+    "user_phone_number": "+12345678910"
+  }
+]
