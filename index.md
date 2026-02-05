@@ -4,6 +4,7 @@
 Fetch data from the provided API endpoint and display it as a list on the webpage.
 
 **API Endpoint:** `https://dhruvabisht.github.io/endpoint/list.json`
+**HTML Boiler Plate:** 'https://dhruvabisht.github.io/endpoint/boilerplatecode.md'
 
 ---
 
